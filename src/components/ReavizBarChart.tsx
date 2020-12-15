@@ -30,9 +30,6 @@ export const ReavizBarChart = (props: ReavizBarChartProps) => (
             padding={5}
             rx={4}
             ry={4}
-            // style={(data: ChartDataShape) => {
-            //   return { fill: '#5843d1'}
-            // }}
           />
         }
       />
